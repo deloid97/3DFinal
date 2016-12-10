@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: cfb4c4607d438614f808e807f0ebf802
+timeCreated: 1481342917
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: chestNURB
+    100004: fin
+    100006: finNURB
+    100008: head
+    100010: headOnlyNURB
+    100012: helperLeftAnkle
+    100014: helperLeftBall1
+    100016: helperLeftHeel
+    100018: helperRightAnkle
+    100020: helperRightBall1
+    100022: helperRightHeel
+    100024: hipMain
+    100026: hipNURB
+    100028: holeHeadNURB
+    100030: leftAnkle
+    100032: leftArmIK
+    100034: leftBall_IK
+    100036: leftElbow
+    100038: leftElbowController_gp
+    100040: leftElbowNURB
+    100042: leftFingers
+    100044: leftFootController
+    100046: leftHand
+    100048: leftHandController_gp
+    100050: leftHandController_gp 1
+    100052: leftHip
+    100054: leftHipNURB
+    100056: leftKnee
+    100058: leftKneeNURB_PV
+    100060: leftLegIK
+    100062: leftShoulder
+    100064: leftShoulderController_gp
+    100066: leftShoulderNURB
+    100068: leftToes
+    100070: leftWristNURB
+    100072: leftWristNURB 1
+    100074: main
+    100076: mainBodyNURB
+    100078: //RootNode
+    100080: neck
+    100082: neckExtend
+    100084: rightAnkle
+    100086: rightArmIK
+    100088: rightBall_IK
+    100090: rightElbow
+    100092: rightElbowController_gp
+    100094: rightElbowNURB
+    100096: rightFingers
+    100098: rightFootController1
+    100100: rightHand
+    100102: rightHip
+    100104: rightHipNURB
+    100106: rightKnee
+    100108: rightKneeNURB_PV
+    100110: rightLegIK
+    100112: rightShoulder
+    100114: rightShoulderController_gp
+    100116: rightShoulderNURB
+    100118: rightToes
+    100120: sharkMonster
+    100122: tail
+    100124: tailFin
+    100126: tailFinBottom
+    100128: tailFinBottomNURB
+    100130: tailFinNURB
+    100132: tailFinTop
+    100134: tailFinTopNURB
+    100136: tailIK
+    100138: tailMainNURB
+    100140: tailSeg1
+    100142: tailSeg1NURB
+    100144: tailSeg2
+    100146: tailSeg2NURB
+    100148: tailSeg3
+    100150: tailSeg3NURB
+    100152: tailSeg4
+    100154: tailSeg4NURB
+    100156: tailSeg5
+    100158: tailSeg5NURB
+    100160: torso
+    100162: torsoController_PV
+    100164: torsoIK
+    100166: torsoNURB
+    400000: chest
+    400002: chestNURB
+    400004: fin
+    400006: finNURB
+    400008: head
+    400010: headOnlyNURB
+    400012: helperLeftAnkle
+    400014: helperLeftBall1
+    400016: helperLeftHeel
+    400018: helperRightAnkle
+    400020: helperRightBall1
+    400022: helperRightHeel
+    400024: hipMain
+    400026: hipNURB
+    400028: holeHeadNURB
+    400030: leftAnkle
+    400032: leftArmIK
+    400034: leftBall_IK
+    400036: leftElbow
+    400038: leftElbowController_gp
+    400040: leftElbowNURB
+    400042: leftFingers
+    400044: leftFootController
+    400046: leftHand
+    400048: leftHandController_gp
+    400050: leftHandController_gp 1
+    400052: leftHip
+    400054: leftHipNURB
+    400056: leftKnee
+    400058: leftKneeNURB_PV
+    400060: leftLegIK
+    400062: leftShoulder
+    400064: leftShoulderController_gp
+    400066: leftShoulderNURB
+    400068: leftToes
+    400070: leftWristNURB
+    400072: leftWristNURB 1
+    400074: main
+    400076: mainBodyNURB
+    400078: //RootNode
+    400080: neck
+    400082: neckExtend
+    400084: rightAnkle
+    400086: rightArmIK
+    400088: rightBall_IK
+    400090: rightElbow
+    400092: rightElbowController_gp
+    400094: rightElbowNURB
+    400096: rightFingers
+    400098: rightFootController1
+    400100: rightHand
+    400102: rightHip
+    400104: rightHipNURB
+    400106: rightKnee
+    400108: rightKneeNURB_PV
+    400110: rightLegIK
+    400112: rightShoulder
+    400114: rightShoulderController_gp
+    400116: rightShoulderNURB
+    400118: rightToes
+    400120: sharkMonster
+    400122: tail
+    400124: tailFin
+    400126: tailFinBottom
+    400128: tailFinBottomNURB
+    400130: tailFinNURB
+    400132: tailFinTop
+    400134: tailFinTopNURB
+    400136: tailIK
+    400138: tailMainNURB
+    400140: tailSeg1
+    400142: tailSeg1NURB
+    400144: tailSeg2
+    400146: tailSeg2NURB
+    400148: tailSeg3
+    400150: tailSeg3NURB
+    400152: tailSeg4
+    400154: tailSeg4NURB
+    400156: tailSeg5
+    400158: tailSeg5NURB
+    400160: torso
+    400162: torsoController_PV
+    400164: torsoIK
+    400166: torsoNURB
+    4300000: sharkMonster
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: sharkMonster
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

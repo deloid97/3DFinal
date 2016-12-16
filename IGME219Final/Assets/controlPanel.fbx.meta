@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 01eb0a0a691e9744da8763ec6b2cae10
-timeCreated: 1481343604
+timeCreated: 1481869332
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -10,6 +10,7 @@ ModelImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: cpntrol_panel2
+    6400000: //RootNode
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -35,9 +36,9 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 3
+    globalScale: 10
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
